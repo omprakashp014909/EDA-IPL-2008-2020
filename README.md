@@ -1,7 +1,7 @@
 # EDA-IPL-2008-2020
 
 ---
-IPL (Indian Premier League) dataset 2008-2019 has beentaken from https://www.kaggle.com/patrickb1912/ipl-complete-dataset-20082020 .This dataset consists of two seperate CSV files for matches and deliveries. These files contain the information of each match summary and ball by ball details, respectively. For analysis both former and current teams have been considered and Hidden Insights has been found considering all the matches played till 2020
+IPL (Indian Premier League) dataset 2008-2019 has been taken from https://www.kaggle.com/patrickb1912/ipl-complete-dataset-20082020 .This dataset consists of two seperate CSV files for matches and deliveries. These files contain the information of each match summary and ball by ball details, respectively. For analysis both former and current teams have been considered and Hidden Insights has been found considering all the matches played till 2020
 
 Analyzed 800+ matches of data and found insights like:
 * Chances of winning match on winning toss
